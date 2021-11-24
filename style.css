@@ -382,6 +382,13 @@ section .title::after {
 .skills-content .right .reactjs::before {
   width: 70%;
 }
+.skills-content .right .python::before {
+  width: 75%;
+}
+.skills-content .right .django::before {
+  width: 60%;
+}
+
 
 /* projects section styling */
 .projects .title::after {
